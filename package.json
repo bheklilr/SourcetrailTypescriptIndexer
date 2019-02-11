@@ -5,9 +5,10 @@
   "main": "src/index.js",
   "repository": "https://github.com/bheklilr/SourcetrailTypescriptIndexer",
   "author": "Aaron Stevens <bheklilr2@gmail.com>",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "private": false,
   "dependencies": {
+    "commander": "^2.19.0",
     "typescript": "^3.3.3"
   }
 }

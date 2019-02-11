@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+commander@^2.19.0:
+  version "2.19.0"
+  resolved "http://cpnexrepav.sppcorp.org:8080/nexus/content/groups/npm-all/commander/-/commander-2.19.0.tgz#f6198aa84e5b83c46054b94ddedbfed5ee9ff12a"
+
 typescript@^3.3.3:
   version "3.3.3"
   resolved "http://cpnexrepav.sppcorp.org:8080/nexus/content/groups/npm-all/typescript/-/typescript-3.3.3.tgz#f1657fc7daa27e1a8930758ace9ae8da31403221"
