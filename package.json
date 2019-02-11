@@ -6,5 +6,8 @@
   "repository": "https://github.com/bheklilr/SourcetrailTypescriptIndexer",
   "author": "Aaron Stevens <bheklilr2@gmail.com>",
   "license": "Apache 2.0",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "typescript": "^3.3.3"
+  }
 }
