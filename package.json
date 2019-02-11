@@ -1,0 +1,10 @@
+{
+  "name": "SourcetrailTypescriptIndexer",
+  "version": "1.0.0",
+  "description": "Typescript Indexer for Sourcetrail",
+  "main": "src/index.js",
+  "repository": "https://github.com/bheklilr/SourcetrailTypescriptIndexer",
+  "author": "Aaron Stevens <bheklilr2@gmail.com>",
+  "license": "Apache 2.0",
+  "private": false
+}
